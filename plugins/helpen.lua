@@ -140,9 +140,6 @@ set welcome disable
 〰〰〰〰〰〰
 *Only owner can use res,setowner,promote,demote,log commands 
 
-sudo: @tehran980 , @boy_crazy , @joker_admin1
-
-@BossTGch  👈👈pls join
   ]]
 end
 
