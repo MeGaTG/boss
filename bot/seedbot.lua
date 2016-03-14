@@ -217,6 +217,11 @@ function create_config( )
     "anti_spam",
     "owners",
     "arabic_lock",
+    "invsudo",
+    "tex",
+    "meme",
+    "translate",
+    "p",
     "set",
     "plug",
     "get",
@@ -242,7 +247,7 @@ sudo:
 Special thanks to:
 
 HaMeD
-IMAN
+IM/-\N
 
 Our channels : 
 @OffLiNeTG_CH [persian]
